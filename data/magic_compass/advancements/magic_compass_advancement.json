@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "magic_compass:magic_compass"
+            }
+        }
+    },
+    "rewards": {
+        "function": "magic_compass:crafted_magic_compass"
+    }
+}

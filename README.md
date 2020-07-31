@@ -1,2 +1,5 @@
-# mc-datapack-magic_compass
+# Magic Compass
+
+Minecraft datapack
+
 Consumable magic compass that teleports you home
