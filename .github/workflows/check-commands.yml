@@ -1,9 +1,11 @@
-name: Check commands
+name: Datapack validation
 on: [push]
 
 jobs:
-  check:
+  validate:
+    name: Validate
     runs-on: ubuntu-latest
+    
     steps:
       - uses: actions/checkout@v2
       - uses: mcbeet/check-commands@v1
